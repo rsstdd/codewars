@@ -1,0 +1,4 @@
+/Users/rsstdd/Projects/csharp/codewars/csharp/bin/Debug/netcoreapp1.1/csharp.deps.json
+/Users/rsstdd/Projects/csharp/codewars/csharp/bin/Debug/netcoreapp1.1/csharp.runtimeconfig.json
+/Users/rsstdd/Projects/csharp/codewars/csharp/bin/Debug/netcoreapp1.1/csharp.runtimeconfig.dev.json
+/Users/rsstdd/Projects/csharp/codewars/csharp/obj/Debug/netcoreapp1.1/csharp.AssemblyInfo.cs
